@@ -7,4 +7,7 @@ import { Component } from '@angular/core';
 })
 export class DashboardComponent {
 
+  urlImagen: string = 'https://cdn2.iconfinder.com/data/icons/weather-flat-14/64/weather02-1024.png';
+
+
 }
